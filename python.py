@@ -6,7 +6,7 @@ from barcode.writer import ImageWriter
 from tkinter import filedialog
 import shutil
 
-
+# =≈≠≡
 
 # ======================
 # 기본 설정
